@@ -6,4 +6,5 @@ menu:
     params:
       icon: '<i class="fas fa-fw fa-blog"></i>'
       description: 'Blog Menu Description'
+draft: true
 ---

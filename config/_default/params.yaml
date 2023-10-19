@@ -1,12 +1,13 @@
 mainSections:
-  - blog
-  - posts
-  - news
+  - docs
+  # - blog
+  # - posts
+  # - news
 
 # titleSeparator: '|' # Title separator. Default to -.
 
-description: An extreme fast, responsive and feature-rich blog theme for Hugo
-keywords: Hugo, Bootstrap, Blog Theme
+# description: An extreme fast, responsive and feature-rich blog theme for Hugo
+# keywords: Hugo, Bootstrap, Blog Theme
 # images:
 #   - site-feature-image.jpg
 

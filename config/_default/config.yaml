@@ -1,7 +1,7 @@
 baseURL: /
-title: Hugo Bootstrap Skeleton
+title: Dealflow Documentation
 theme: github.com/razonyang/hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+# copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
@@ -20,18 +20,19 @@ pygmentsUseClasses: true
 blackfriday:
   hrefTargetBlank: true
 
-taxonomies:
-  category: categories
-  series: series
-  tag: tags
-  authors: authors
+# taxonomies:
+  # category: categories
+  # series: series
+  # tag: tags
+  # authors: authors
 
 build:
   writeStats: true
 
 permalinks:
-  news: /news/:year/:month/:title/
-  blog: /blog/:year/:month/:title/
+  # news: /news/:year/:month/:title/
+  # blog: /blog/:year/:month/:title/
+  docs: /
 
 # module:
   # proxy: https://goproxy.cn

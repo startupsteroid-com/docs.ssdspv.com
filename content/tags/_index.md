@@ -7,4 +7,5 @@ menu:
     params:
       icon: <i class="fas fa-fw fa-tags"></i>
       description: List of tags.
+draft: true
 ---

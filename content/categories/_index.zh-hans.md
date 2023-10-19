@@ -7,4 +7,5 @@ menu:
     params:
       icon: <i class="fas fa-fw fa-folder text-success"></i>
       description: List of categories.
+draft: true
 ---

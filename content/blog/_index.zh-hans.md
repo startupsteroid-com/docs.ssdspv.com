@@ -6,4 +6,5 @@ menu:
     params:
       icon: '<i class="fas fa-fw fa-blog"></i>'
       description: '博客菜单描述'
+draft: true
 ---
