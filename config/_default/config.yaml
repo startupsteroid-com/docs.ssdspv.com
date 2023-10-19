@@ -32,7 +32,9 @@ build:
 permalinks:
   # news: /news/:year/:month/:title/
   # blog: /blog/:year/:month/:title/
-  docs: /
+  # docs: /
 
 # module:
   # proxy: https://goproxy.cn
+
+enableGitInfo: false

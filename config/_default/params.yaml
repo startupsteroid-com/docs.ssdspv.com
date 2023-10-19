@@ -16,7 +16,7 @@ mainSections:
 
 logo: images/logo.png # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
-# brand: HBS
+brand: Startup Steroid
 
 palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
@@ -88,7 +88,7 @@ viewer: true # Image Viewer
 
 sidebar:
   # fixed: true
-  # archives: true # Enable archives widget
+  archives: false # Enable archives widget
   # taxonomiesToggle: false # Disable taxonomy toggle
   # categories: true # Enable categories widget
   # tags: true # Enable tags widget
@@ -106,7 +106,7 @@ codeBlock:
 post:
   # excerpt: description
   # excerptMaxLength: 120
-  # copyright: false # Whether to display copyright section on each post.
+  copyright: false # Whether to display copyright section on each post.
   # plainifyExcerpt: false # Format excerpt in HTML if false.
   featuredImage: true # Show the featured image above the content.
   numberifyHeadings: true # Count headings automatically.
@@ -170,11 +170,11 @@ creativeCommons:
   #moderation: false # Same as Staticman's moderation.
 
 # See https://giscus.app
-giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  repoId: "R_kgDOHJi95g" # required.
-  category: "General" # required.
-  categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
+# giscus:
+  # repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
+  # repoId: "R_kgDOHJi95g" # required.
+  # category: "General" # required.
+  # categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
@@ -204,9 +204,9 @@ search:
   # indexName: ""
   # debug: true
 
-reward:
-  alipay: images/reward/alipay.png
-  wechat: images/reward/wechat.png
+# reward:
+#   alipay: images/reward/alipay.png
+#   wechat: images/reward/wechat.png
   #paypal: images/reward/paypal.png
   #patreon: images/reward/patreon.png
   #liberapay: images/reward/liberapay.png
@@ -256,10 +256,10 @@ repo:
 
 topAppBar:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
-  social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+  # social:
+  #   github: razonyang/hugo-theme-bootstrap
+  #   patreon: razonyang
+  #   paypal: razonyang
 
 #docs:
   # nav:
