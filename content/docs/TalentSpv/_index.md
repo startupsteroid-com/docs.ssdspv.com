@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Talent SPV Documentation
 menu:
   main:
     weight: 1
@@ -7,4 +7,4 @@ menu:
       icon: '<i class="fas fa-fw fa-file"></i>'
 ---
 
-The example of Docs layout.
+This is Talent SPV Website Documentation.
