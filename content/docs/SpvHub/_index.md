@@ -1,5 +1,5 @@
 ---
-title: SPV Hub Documentation
+title: SPV HUB Documentation
 menu:
   main:
     weight: 1
@@ -7,4 +7,4 @@ menu:
       icon: '<i class="fas fa-fw fa-file"></i>'
 ---
 
-This is SPV Hub Website Documentation.
+This is SPV HUB Website Documentation.
