@@ -9,6 +9,7 @@ categories:
 tags: 
   - Admin Login
   - Investor Login
+images: [images/startupLogin.gif]
 ---
 
 A "Startup Login or Founder Login" typically refers to the process of logging into a company's software applications, often as an founder or authorized user. The steps for a company login can vary based on the specific setup and security measures put in place by the company, but here are the steps you have to follow while making login for TiE SoCal Angels as founder :

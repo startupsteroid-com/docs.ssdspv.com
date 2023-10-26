@@ -9,6 +9,7 @@ categories:
 tags:
   - Investor Login
   - Startup Login
+# images : [images/adminLogin.gif]
 ---
 
 An admin login, also known as administrator login, is a special type of login that provides access to the administrative functions and settings of a computer system, website, application, or network. Administrators, often referred to as "admins," are granted elevated privileges to configure, manage, and oversee various aspects of the system. Admin logins are crucial for maintaining security, managing user accounts, and making system-wide changes. Here are the typical steps for performing an admin login for TiE SoCal Angels : 

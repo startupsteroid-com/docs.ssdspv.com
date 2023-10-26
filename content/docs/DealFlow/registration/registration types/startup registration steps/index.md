@@ -9,6 +9,7 @@ categories:
 tags : 
   - Registration
   - Startup Registration Steps
+images : [images/startupRegistrationSteps.gif]
 ---
 In Startup Registration you have to first of all visit the website https://tiesocalangels.spv.today/ . This Registration process is divided into  following sections .
 

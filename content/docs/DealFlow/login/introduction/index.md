@@ -8,6 +8,7 @@ categories:
   - Login
 tags:
   - Introduction
+images: [images/loginIntroduction.png]
 ---
 
 A login, in the context of a website, is a process that allows a user to access a restricted or personalized area of the site by providing credentials such as a username and password. It's a fundamental security mechanism for controlling access to a website and its features. Here's an overview of its significance : 
