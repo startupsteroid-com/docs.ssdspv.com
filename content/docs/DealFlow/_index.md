@@ -1,5 +1,6 @@
 ---
-title: DealFlow Documentation
+title : DealFlow Docs
+linkTitleIcon: <i class = "fas fa-fw fa-book"></i>
 menu:
   main:
     weight: 1

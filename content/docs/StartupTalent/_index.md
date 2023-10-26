@@ -1,5 +1,6 @@
 ---
-title: Startup Talent Documentation
+title: Startup Talent Docs
+linkTitleIcon : <i class = "fas fa-fw fa-book"></i>
 menu:
   main:
     weight: 1
