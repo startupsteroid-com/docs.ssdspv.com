@@ -49,3 +49,5 @@ Here is list of steps to be followed for Startup Registration :
 - Once you enter the authenticated credentials you will be redirected to Startup Profile
 - In Profile you have to Sign the code of conduct and later you can view or edit company information
 - Here you Go, your Startup Profile is settled Down, You can now check other menu options as per your need
+
+If you still have any doubts you can refer the video mentioned above.

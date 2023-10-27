@@ -12,7 +12,6 @@ tags:
   - Admin Login
 images : [images/forgetPassword.gif]
 ---
-
 "Forgot password" is a common feature on websites and online services that allows users to reset their passwords if they have forgotten them. It is a security and user assistance measure that helps individuals regain access to their accounts when they can't remember their password.
 
 The significance of the "Forgot password" feature includes:
@@ -35,5 +34,5 @@ Password Reset Steps :
 - Then you will get a form to add new password and save that. Once you save the password, here you will be redirected to Login Page again to enter credentials.
 - You can also choose the Resend OTP option in case you need that.
 
-if you still have any doubts you can refer the video mentioned above.
+If you still have any doubts you can refer the video mentioned above.
 

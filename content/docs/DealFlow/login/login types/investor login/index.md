@@ -11,7 +11,6 @@ tags:
   - Startup Login
 images : [images/investorLogin.gif]
 ---
-
 An investor login is a secure online portal or platform that allows investors to access their investment accounts, review their portfolios, track performance, and perform various investment-related activities. These login systems are typically used by various financial institutions, brokerage firms, and investment companies to provide their clients with access to their investment information. The specific steps to access an investor login for the TiE SoCal Angels are as follows :
 
 - Registration : If you are a new investor, you will likely need to register for an investor login. You may need to provide personal information, including your name, contact information, and financial information.
@@ -30,6 +29,6 @@ An investor login is a secure online portal or platform that allows investors to
 
 In case you forget the password please refer this link https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/login/login-types/forgetpassword/
 
-You should follow the instructions provided by the company or institution where you have your investments.
+You should follow the instructions provided by the company or institution where you have your investments. If you still have any doubts you can refer the video mentioned above.
 
 Please keep in mind that if you're trying to access a specific company's investor login, you should visit their official website and look for instructions or a dedicated login page. If you have difficulties or questions, you can also reach out to their customer support for assistance.

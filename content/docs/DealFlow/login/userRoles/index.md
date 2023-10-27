@@ -20,4 +20,4 @@ User roles in a website or web application help determine the level of access, p
 
 - Investor : Investors play a crucial role in the success and growth of a startup. Their primary role is to provide financial support and resources to help the startup achieve its goals.
 
-In DealFlow one single user can paly the role of all other types of roles once registration is done. For more clarification can refer the video above.
+In DealFlow one single user can paly the role of all other types of roles once registration is done. For more clarification can refer the video above. If you still have any doubts you can refer the video mentioned above.

@@ -31,4 +31,6 @@ Here is list of steps to be followed for Investor Registration :
 - Once you enter the OTP you will be redirected to Investor Profile
 - In Profile you can setup your Investment Preferences and Sign the code of conduct
 - Here you Go, your Investor Profile is settled Down, You can now edit of check other menu options as per your need
-- If you still have doubts you can click on the link https://www.youtube.com/watch?v=DhaTITFk8vw to have a clear idea of steps
+- If you still have doubts you can click on the link https : //www.youtube.com/watch?v=DhaTITFk8vw to have a clear idea of steps
+
+If you still have any doubts you can refer the video mentioned above.

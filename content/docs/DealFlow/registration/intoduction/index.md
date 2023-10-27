@@ -9,7 +9,6 @@ categories:
 tags:
   - Introduction
 ---
-
 Registration is a process by which individuals, organizations, or entities provide information and details about themselves to a relevant authority or system. It is commonly used in various contexts to establish identity, track data, and facilitate various activities. First the user has to register himself like basic details and all, Then user will get the OTP on email or mobile phone for confirmation, After registering login Id will be created that will be used later.
 Here are some common reasons why registration is needed : 
 

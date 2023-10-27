@@ -11,7 +11,6 @@ tags:
   - Investor Login
 images: [images/startupLogin.gif]
 ---
-
 A "Startup Login or Founder Login" typically refers to the process of logging into a company's software applications, often as an founder or authorized user. The steps for a company login can vary based on the specific setup and security measures put in place by the company, but here are the steps you have to follow while making login for TiE SoCal Angels as founder :
 
 - Open the Login Page/Application: Depending on the company's policies, you might need to open a web browser and navigate to a specific login page or open a dedicated application used for company logins. In TiE SoCal Angels the login page is https://tiesocalangels.spv.today/admin/login.
@@ -27,4 +26,6 @@ A "Startup Login or Founder Login" typically refers to the process of logging in
 Many companies also have policies in place for password complexity, regular password changes, and other security measures to protect sensitive company data. In case you forget the password please refer this link https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/login/login-types/forgetpassword/
 
 Always follow your company's IT security guidelines and best practices to help keep the company's systems and data secure. If you have trouble with your company login, your company's IT department or help desk should be able to assist you with the necessary steps and support.
+
+If you still have any doubts you can refer the video mentioned above.
 

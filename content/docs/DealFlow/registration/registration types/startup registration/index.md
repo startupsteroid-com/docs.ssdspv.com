@@ -37,7 +37,7 @@ Here's why startup registration is required and its key purposes:
 
 In summary, startup registration is a fundamental step in establishing a formal, recognized, and legally compliant business entity. It provides important legal protections, facilitates taxation, enables access to funding, and ensures that your business operates in accordance with the laws and regulations of your jurisdiction. The specific requirements and benefits of registration will depend on the type of business and the location in which it operates.
 
-
+If you still have any doubts you can refer the video mentioned above.
 
 
 
