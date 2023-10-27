@@ -28,6 +28,8 @@ An investor login is a secure online portal or platform that allows investors to
 
 - Logging Out: Always remember to log out of your account when you're done to prevent unauthorized access.
 
+In case you forget the password please refer this link https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/login/login-types/forgetpassword/
+
 You should follow the instructions provided by the company or institution where you have your investments.
 
 Please keep in mind that if you're trying to access a specific company's investor login, you should visit their official website and look for instructions or a dedicated login page. If you have difficulties or questions, you can also reach out to their customer support for assistance.

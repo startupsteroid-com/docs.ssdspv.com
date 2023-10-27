@@ -24,7 +24,7 @@ A "Startup Login or Founder Login" typically refers to the process of logging in
 
 - Logout (when done): It's important to log out of your company account when you're done using it, especially on shared or public computers.
 
-Many companies also have policies in place for password complexity, regular password changes, and other security measures to protect sensitive company data.
+Many companies also have policies in place for password complexity, regular password changes, and other security measures to protect sensitive company data. In case you forget the password please refer this link https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/login/login-types/forgetpassword/
 
 Always follow your company's IT security guidelines and best practices to help keep the company's systems and data secure. If you have trouble with your company login, your company's IT department or help desk should be able to assist you with the necessary steps and support.
 

@@ -9,7 +9,7 @@ categories:
 tags : 
   - Registration
   - Investor Registration Steps
-# images : [images/investorRegistrationSteps.gif]
+images : [images/investorRegistrationSteps.gif]
 ---
 In Investor Registration you have to first of all visit the website https://tiesocalangels.spv.today/ and specifically add on information regarding following fields:
 

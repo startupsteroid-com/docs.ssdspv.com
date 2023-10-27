@@ -9,6 +9,7 @@ categories:
 tags:
   - Registration
   - Startup Registration
+images : [images/startupRegistration.png]
 ---
 Startup registration refers to the process of formally establishing a new business entity with the appropriate government authorities. The specific requirements and procedures for startup registration can vary depending on the country, state, and business structure (e.g., sole proprietorship, partnership, corporation, limited liability company, etc.).
 

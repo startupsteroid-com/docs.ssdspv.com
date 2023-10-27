@@ -9,7 +9,7 @@ categories:
 tags:
   - Investor Login
   - Startup Login
-# images : [images/adminLogin.gif]
+images : [images/adminLogin.gif]
 ---
 
 An admin login, also known as administrator login, is a special type of login that provides access to the administrative functions and settings of a computer system, website, application, or network. Administrators, often referred to as "admins," are granted elevated privileges to configure, manage, and oversee various aspects of the system. Admin logins are crucial for maintaining security, managing user accounts, and making system-wide changes. Here are the typical steps for performing an admin login for TiE SoCal Angels : 
@@ -20,7 +20,7 @@ An admin login, also known as administrator login, is a special type of login th
 
 - Submit the Login Form : Click the "Login" button after entering your admin credentials.
 
-- Forget Password : In case you forget password you can click the link Having trouble signing in? After that you will be redirected to page where you be asked to enter the valid EmailId and click on Next button. you will then get an OTP in your Email and you have to paste it in form and click Next. Then you will get a form to add new password and save that. Once you save the password , here you will be redirected to Login Page again to enter credentials.you can also choose the Resend OTP option in case you need that. 
+- Forget Password : https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/login/login-types/forgetpassword/
 
 - Authenticate and Authorize : The application will verify your credentials, and if they are valid, it will authenticate you as an administrator and grant you the necessary privileges.
 
