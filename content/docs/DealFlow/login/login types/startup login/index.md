@@ -11,9 +11,9 @@ tags:
   - Investor Login
 images: [images/startupLogin.gif]
 ---
-A "Startup Login or Founder Login" typically refers to the process of logging into a company's software applications, often as an founder or authorized user. The steps for a company login can vary based on the specific setup and security measures put in place by the company, but here are the steps you have to follow while making login for TiE SoCal Angels as founder :
+A "Startup Login or Founder Login" typically refers to the process of logging into a company's software applications, often as an founder or authorized user. The steps for a company login can vary based on the specific setup and security measures put in place by the company, but here are the steps you have to follow while making login for DealFlow as founder :
 
-- Open the Login Page/Application: Depending on the company's policies, you might need to open a web browser and navigate to a specific login page or open a dedicated application used for company logins. In TiE SoCal Angels the login page is https://tiesocalangels.spv.today/admin/login.
+- Open the Login Page/Application: Depending on the company's policies, you might need to open a web browser and navigate to a specific login page or open a dedicated application used for company logins. In DealFlow the login page is https://tiesocalangels.spv.today/admin/login.
 
 - Enter Your Credentials: On the login page or within the application, you'll be prompted to enter your credentials. This typically includes a username (often your EmailId or email address) and a password.
 
