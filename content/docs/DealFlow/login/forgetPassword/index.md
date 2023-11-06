@@ -5,7 +5,7 @@ linkTitle: Forget Password
 series:
   - Guide
 categories:
-  - Login Types
+  - Login
 tags:
   - Investor Login
   - Startup Login

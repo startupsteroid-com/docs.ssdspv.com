@@ -5,6 +5,7 @@ navWeight: 1000 # Upper weight gets higher precedence, optional.
 # linkTitleIcon: <i class="fas fa-fw fa-book"></i> # The icon of the link title, optional.
 series:
   - Guide
+images : [images/homepageIntroduction.png]
 ---
 
 *DealFlow is a network of investors and professionals with a focus on supporting entrepreneurs and startups.* Here's an overview of their activities and objectives:

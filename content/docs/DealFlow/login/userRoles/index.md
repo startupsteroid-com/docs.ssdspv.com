@@ -5,7 +5,7 @@ linkTitle: User Roles
 series:
   - Guide
 categories:
-  - Login Types
+  - Login
 tags:
   - Investor Login
   - Startup Login
