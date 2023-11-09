@@ -12,7 +12,7 @@ carousel: false
 series:
 categories: []
 tags: []
-images: []
+images: [{{loading="lazy"}}]
 ---
 
 Summary.

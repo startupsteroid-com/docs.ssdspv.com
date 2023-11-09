@@ -12,10 +12,10 @@ tags :
 images : [images/startupRegistrationSteps.gif]
 ---
 
-In Startup Registration you have to first of all **visit the website** [DealFlow](https://tiesocalangels.spv.today/) . This *Registration process is divided into  following sections.*
+In Startup Registration you have to first of all **visit the website** [DealFlow](https://tiesocalangels.spv.today/) . This *Registration process is divided into  following sections.* In these sections you have to enter values for following required fields.
 
 - Contact Information
-  : In this section you have to enter required fields as follows:
+  : 
   - *Email*
   - *Phone Number*
   - *First Name*
