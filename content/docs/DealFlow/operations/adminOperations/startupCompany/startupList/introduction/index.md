@@ -16,13 +16,13 @@ A **Startup is a young company or organization that is typically newly establish
 
 **In Startup List Page you will be able to see the List of all Startups with Count**, along with that you can perform various operations. 
 - **Add Startup**
-  - [How to add a Startup?]()
-  - [What happens once the Startup is submitted?]()
-  - [What happens if new Company name is already in use?]()
+  - [How to add a Startup?](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/startuplist/addstartup/)
+  - What happens once the Startup is submitted?
+  - What happens if new Company name is already in use?
 - **Kanban View**
-  - [What is Kanban View?]()
+  - [What is Kanban View?](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/startuplist/kanbanview/)
 - **Filters**
-  - [What is use of Filters?]()
+  - [What is use of Filters?](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/startuplist/filters/)
 - **Help** 
   :  *On clicking Help button Admin can have look at Step by Step Screenshot Guidance about all the Startup Operations in a new Tab.*
   
