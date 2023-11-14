@@ -44,6 +44,6 @@ These actions are as follows:
 - Update Pool
 - Change Eligibility
 
-To have detailed idea about how these Actions work please refer the Link [Actions](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/startuplist/startupLink/) 
+To have detailed idea about how these Actions work please refer the Link [Actions](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/startuplist/startuplink/)
 
 **In case of any confusion please refer the video mentioned above.**
