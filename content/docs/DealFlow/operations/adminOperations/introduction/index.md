@@ -14,12 +14,12 @@ images : [images/adminOperations.png]
 
 Admin operations may be involved in managing projects and improving operational processes to increase efficiency and effectiveness. It is like news feed.
 
-So now once you authenticated, *you'll be directed to the admin dashboard*, where you can access and manage administrative settings and features. **In DealFlow you can see these following operations to perform :**
+So now once you authenticated as Admin, *you'll be directed to the Admin dashboard*, where you can access and manage administrative settings and features. **In DealFlow you can see these following operations to perform :**
 
-- **Dashboard** 
-- **Calendar**   
+- **[Dashboard](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/dashboard/)** 
+- **[Calendar](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/calendar/)**   
 - **Startup**
-  - Startup List
+  - [Startup List](https://startupsteroid-com.github.io/docs.ssdspv.com/docs/dealflow/operations/adminoperations/startupcompany/)
   - Shared Startup
   - Deal Management
   - Tally Votes

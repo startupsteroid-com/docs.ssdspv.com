@@ -8,7 +8,7 @@ categories:
   - Operations
 tags:
   - Admin Operations
-images : [images/dashBoard.gif]
+images : [images/adminDashBoard.gif]
 ---
 **Admin Dashboard**
 
